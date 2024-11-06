@@ -1,0 +1,8 @@
+database: hgcdb
+host: cmsmac04.phys.cmu.edu
+inst_code: CMU
+institution_name: Carnegie Mellon University
+password: hgcal
+user: ogp_user
+ogp_survey_dir: /Users/yuntongzhou/Desktop/OGPSurveyResults
+ogp_parsed_dir: /Users/yuntongzhou/Desktop/OGPParsedResults
